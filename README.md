@@ -1,3 +1,3 @@
 # NodeJs_Web_Development
 
-Credits: CodeWithHarry, Tyler Potts and Brad Traversy
+Credits: 1. and 2. by CodeWithHarry
